@@ -1,2 +1,6 @@
 # Java_Design_Partner
-This project designed for java design_partner
+### 当前项目讨论的是Java 的设计模式
+##### Proxy 
+* 代理模式
+##### singleton
+* 单例模式
