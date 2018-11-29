@@ -4,3 +4,7 @@
 * 代理模式
 ##### singleton
 * 单例模式
+##### factory
+* 工厂模式
+###### template
+* 模板模式
