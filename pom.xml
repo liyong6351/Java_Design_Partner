@@ -19,10 +19,19 @@
     </parent>
 
     <modules>
-        <module>proxy</module>
-        <module>singleton</module>
+        <!-- 创建型模式 -->
         <module>factory</module>
+        <module>singleton</module>
+
+
+        <!-- 结构型模式 -->
+        <module>proxy</module>
         <module>template</module>
+        <module>facade</module>
+
+        <!-- 行为型模式 -->
+        <module>responsibility</module>
+
     </modules>
 
     <properties>
