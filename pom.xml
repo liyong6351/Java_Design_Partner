@@ -28,9 +28,15 @@
         <module>proxy</module>
         <module>template</module>
         <module>facade</module>
+        <module>flyweight</module>
+        <module>prototype</module>
 
         <!-- 行为型模式 -->
         <module>responsibility</module>
+
+        <!-- 多线程设计模式 -->
+        <module>guarded_suspension</module>
+
 
     </modules>
 
